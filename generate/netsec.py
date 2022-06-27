@@ -4,7 +4,7 @@ import tldextract
 from collections import defaultdict
 
 GOGGLE_HEADER = """! name: Netsec
-! description: High signal information security sources.
+! description: Prioritizes domains popular with the information security community. Primarily uses submissions and scoring from /r/netsec.
 ! public: true
 ! author: Forces Unseen
 ! avatar: #01ebae
