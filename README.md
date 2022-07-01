@@ -16,7 +16,7 @@ Reddit's API is horrible and super limited and after some trial and error using 
 
 We owe it all to [voussoir](https://github.com/voussoir) for the amazing tool, [timesearch](https://github.com/voussoir/timesearch). Thank you so much!
 
-## What algorithim are you using?
+## What algorithm are you using?
 
 You can just take a look within `generate/netsec.py`.
 
