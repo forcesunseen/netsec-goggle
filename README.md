@@ -6,6 +6,8 @@ Goggles are a way to alter the ranking in a search engine. Brave is behind this 
 
 We were really curious if this could help us to break through all the SEO spam and garbage on the internet and help us be more productive in the information security space. So we used submissions from /r/netsec as our source to build this Goggle.
 
+You can also read more about this on Forces Unseen's blog: [Make Search Engines Great Again!](https://blog.forcesunseen.com/make-search-engines-great-again)
+
 ## How do I use this?
 It's super easy! Just go [here](https://search.brave.com/goggles?goggles_id=https://github.com/forcesunseen/netsec-goggle/blob/master/netsec.goggle) and start searching!
 
