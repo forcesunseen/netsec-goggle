@@ -4,7 +4,7 @@
 ! author: Forces Unseen
 ! avatar: #01ebae
 ! homepage: https://github.com/forcesunseen/netsec-goggle
-! generated: 2022-07-06 21:13:38.069166+00:00
+! generated: 2022-08-22 16:26:08.939743+00:00
 
 ! Goggle extras
 $boost=2,site=github.io
@@ -25,8 +25,8 @@ $boost=4,site=googleblog.com
 $boost=4,site=portswigger.net
 $boost=4,site=eff.org
 $boost=4,site=bleepingcomputer.com
-$boost=4,site=detectify.com
 $boost=4,site=talosintelligence.com
+$boost=4,site=detectify.com
 $boost=4,site=rapid7.com
 $boost=4,site=theregister.co.uk
 $boost=4,site=malwarebytes.com
@@ -34,9 +34,9 @@ $boost=4,site=ccc.de
 $boost=4,site=randywestergren.com
 $boost=4,site=nccgroup.trust
 $boost=4,site=schneier.com
+$boost=4,site=nccgroup.com
 $boost=4,site=f-secure.com
 $boost=4,site=sec-consult.com
-$boost=4,site=nccgroup.com
 $boost=4,site=openwall.com
 $boost=4,site=coresecurity.com
 $boost=4,site=wilbursecurity.com
@@ -51,8 +51,8 @@ $boost=4,site=hackerone.com
 $boost=4,site=blackhat.com
 $boost=4,site=sysdig.com
 $boost=4,site=cybereason.com
-$boost=4,site=networkworld.com
 $boost=4,site=evilsocket.net
+$boost=4,site=networkworld.com
 $boost=4,site=cert.org
 $boost=4,site=pastebin.com
 $boost=4,site=kali.org
@@ -83,10 +83,11 @@ $boost=4,site=habr.com
 $boost=4,site=duo.com
 $boost=4,site=martinvigo.com
 $boost=4,site=sakurity.com
+$boost=4,site=iacr.org
 $boost=4,site=gkbrk.com
 $boost=4,site=spiderlabs.com
-$boost=4,site=securelist.com
 $boost=4,site=lunasec.io
+$boost=4,site=securelist.com
 $boost=4,site=gosecure.net
 $boost=4,site=opensecurityresearch.com
 $boost=4,site=trailofbits.com
@@ -96,7 +97,6 @@ $boost=4,site=assetnote.io
 $boost=4,site=0x00sec.org
 $boost=4,site=zimperium.com
 $boost=4,site=ripstech.com
-$boost=4,site=iacr.org
 $boost=4,site=bishopfox.com
 $boost=4,site=highon.coffee
 $boost=4,site=mwrinfosecurity.com
@@ -107,8 +107,8 @@ $boost=4,site=silentsignal.eu
 $boost=4,site=h-online.com
 $boost=4,site=wireshark.org
 $boost=4,site=contextis.com
-$boost=4,site=hackaday.com
 $boost=4,site=trustedsec.com
+$boost=4,site=hackaday.com
 $boost=4,site=threader.app
 $boost=4,site=drewdevault.com
 $boost=4,site=positive.security
@@ -123,13 +123,13 @@ $boost=4,site=ircmaxell.com
 $boost=4,site=ifc0nfig.com
 $boost=4,site=amonitoring.ru
 $boost=4,site=ruwhof.net
+$boost=4,site=synacktiv.com
 $boost=4,site=usenix.org
+$boost=4,site=cyberark.com
 $boost=4,site=put.as
 $boost=4,site=utkusen.com
 $boost=4,site=grepular.com
 $boost=4,site=erratasec.com
-$boost=4,site=cyberark.com
-$boost=4,site=synacktiv.com
 $boost=4,site=exfiltrated.com
 $boost=4,site=raspberrypi.org
 $boost=4,site=specterops.io
@@ -145,10 +145,10 @@ $boost=4,site=heise.de
 $boost=4,site=hackernoon.com
 $boost=4,site=nmap.org
 $boost=4,site=acolyer.org
+$boost=4,site=ret2.io
 $boost=4,site=talosintel.com
 $boost=4,site=foxglovesecurity.com
 $boost=4,site=pentesterlab.com
-$boost=4,site=ret2.io
 $boost=4,site=symantec.com
 $boost=4,site=nviso.be
 $boost=4,site=netmux.com
@@ -163,7 +163,9 @@ $boost=4,site=irongeek.com
 $boost=4,site=wooyun.io
 $boost=4,site=whispersystems.org
 $boost=4,site=openssh.com
+$boost=4,site=mdsec.co.uk
 $boost=4,site=mitre.org
+$boost=4,site=quarkslab.com
 $boost=4,site=offensive-security.com
 $boost=4,site=citizenlab.org
 $boost=4,site=thepiratebay.org
@@ -172,7 +174,6 @@ $boost=4,site=freedom-to-tinker.com
 $boost=4,site=scotthelme.co.uk
 $boost=4,site=fidusinfosec.com
 $boost=4,site=tunnelsup.com
-$boost=4,site=mdsec.co.uk
 $boost=4,site=owasp.org
 $boost=4,site=sentinelone.com
 $boost=4,site=enigma0x3.net
@@ -189,7 +190,6 @@ $boost=4,site=boris.in
 $boost=4,site=ambionics.io
 $boost=4,site=toolbox.com
 $boost=4,site=benjojo.co.uk
-$boost=4,site=quarkslab.com
 $boost=4,site=haxx.se
 $boost=4,site=9to5mac.com
 $boost=4,site=guardicore.com
@@ -202,9 +202,11 @@ $boost=4,site=coalfire.com
 $boost=4,site=thezerohack.com
 $boost=4,site=pcworld.com
 $boost=4,site=wordfence.com
+$boost=4,site=zerodayinitiative.com
 $boost=4,site=fortinet.com
 $boost=4,site=jonlu.ca
 $boost=4,site=samcurry.net
+$boost=4,site=cybergeeks.tech
 $boost=4,site=thisissecurity.net
 $boost=4,site=imperialviolet.org
 $boost=4,site=ammaraskar.com
@@ -214,6 +216,7 @@ $boost=4,site=backtrack-linux.org
 $boost=4,site=alephsecurity.com
 $boost=4,site=jcjc-dev.com
 $boost=4,site=vexillium.org
+$boost=4,site=computest.nl
 $boost=4,site=skullsecurity.org
 $boost=4,site=bscc.support
 $boost=4,site=kali.training
@@ -221,7 +224,6 @@ $boost=4,site=lastpass.com
 $boost=4,site=sensepost.com
 $boost=4,site=tarlogic.com
 $boost=4,site=inria.fr
-$boost=4,site=zerodayinitiative.com
 $boost=4,site=breakingmalware.com
 $boost=4,site=slashdot.org
 $boost=4,site=xkcd.com
@@ -238,14 +240,13 @@ $boost=4,site=ttias.be
 $boost=4,site=comae.io
 $boost=4,site=hashes.org
 $boost=4,site=exploit-db.com
-$boost=4,site=cybergeeks.tech
 $boost=4,site=360.com
 $boost=4,site=acm.org
 $boost=4,site=room362.com
-$boost=4,site=computest.nl
 $boost=4,site=dmiessler.com
 $boost=4,site=jameshfisher.com
 $boost=4,site=mathyvanhoef.com
+$boost=4,site=doyensec.com
 $boost=4,site=jfrog.com
 $boost=4,site=blogspot.co.uk
 $boost=4,site=trustfoundry.net
@@ -253,7 +254,7 @@ $boost=4,site=openssl.org
 $boost=4,site=attrition.org
 $boost=4,site=grimm-co.com
 $boost=4,site=samba.org
-$boost=4,site=doyensec.com
+$boost=4,site=certitude.consulting
 $boost=4,site=metasploit.com
 $boost=4,site=invincealabs.com
 $boost=4,site=finnwea.com
@@ -319,7 +320,9 @@ $boost=4,site=truesec.com
 $boost=4,site=adsecurity.org
 $boost=4,site=yubico.com
 $boost=4,site=fox-it.com
+$boost=4,site=fourcore.io
 $boost=4,site=shenaniganslabs.io
+$boost=4,site=humanativaspa.it
 $boost=4,site=avatao.com
 $boost=4,site=lukasstefanko.com
 $boost=4,site=websec.ca
@@ -342,7 +345,6 @@ $boost=4,site=directdefense.com
 $boost=4,site=0x3a.com
 $boost=4,site=ninja.style
 $boost=4,site=artkond.com
-$boost=4,site=humanativaspa.it
 $boost=4,site=ncsc.gov.uk
 $boost=4,site=us-cert.gov
 $boost=4,site=thenextweb.com
@@ -352,7 +354,6 @@ $boost=4,site=truecrypt.org
 $boost=4,site=t3chnocat.com
 $boost=4,site=elcomsoft.com
 $boost=4,site=sploitspren.com
-$boost=4,site=certitude.consulting
 $boost=4,site=vdoo.com
 $boost=4,site=gov.sk
 $boost=4,site=netanelrub.in
@@ -515,6 +516,7 @@ $boost=4,site=neohapsis.com
 $boost=4,site=mish.re
 $boost=4,site=qnrq.se
 $boost=4,site=pajhome.org.uk
+$boost=4,site=caniphish.com
 $boost=4,site=ulfheim.net
 $boost=4,site=checkmarx.com
 $boost=4,site=inputzero.io
@@ -532,9 +534,12 @@ $boost=4,site=infoworld.com
 $boost=4,site=fingerprintjs.com
 $boost=4,site=gitlab.io
 $boost=4,site=fail0verflow.com
+$boost=4,site=theintercept.com
 $boost=4,site=lyrebirds.dk
 $boost=4,site=www.gov.uk
 $boost=4,site=lifars.com
+$boost=4,site=sonarsource.com
+$boost=4,site=remyhax.xyz
 $boost=4,site=borncity.com
 $boost=4,site=soatok.blog
 $boost=4,site=jordanpotti.com
@@ -547,7 +552,6 @@ $boost=4,site=silentbreaksecurity.com
 $boost=4,site=coinbase.com
 $boost=4,site=ired.team
 $boost=4,site=drownattack.com
-$boost=4,site=fourcore.io
 $boost=4,site=redteam-pentesting.de
 $boost=4,site=hackingdistributed.com
 $boost=4,site=securityledger.com
@@ -559,7 +563,6 @@ $boost=4,site=offensi.com
 $boost=4,site=heise-online.co.uk
 $boost=4,site=snelling.io
 $boost=4,site=bogner.sh
-$boost=4,site=remyhax.xyz
 $boost=4,site=disconnected.io
 $boost=4,site=blackarrow.net
 $boost=4,site=chrisdcmoore.co.uk
@@ -602,7 +605,6 @@ $boost=4,site=exploit-monday.com
 $boost=4,site=blogspot.ro
 $boost=4,site=draios.com
 $boost=4,site=xdavidhu.me
-$boost=4,site=caniphish.com
 $boost=4,site=threatnix.io
 $boost=4,site=tinypic.com
 $boost=4,site=freebsd.org
@@ -615,7 +617,6 @@ $boost=4,site=zhovner.com
 $boost=4,site=businessweek.com
 $boost=4,site=tempestsi.com
 $boost=4,site=actionnetwork.org
-$boost=4,site=sonarsource.com
 $boost=4,site=insidepro.com
 $boost=4,site=logrhythm.com
 $boost=4,site=fredericb.info
@@ -639,9 +640,9 @@ $boost=4,site=shmoocon.org
 $boost=4,site=com.com
 $boost=4,site=ezequiel.tech
 $boost=4,site=paul.reviews
-$boost=4,site=theintercept.com
 $boost=4,site=poly.edu
 $boost=4,site=ieeelog.com
+$boost=4,site=includesecurity.com
 $boost=4,site=intrepidusgroup.com
 $boost=4,site=haveibeenpwned.com
 $boost=4,site=paritynews.com
@@ -686,6 +687,7 @@ $boost=4,site=cybellum.com
 $boost=4,site=markitzeroday.com
 $boost=4,site=umd.edu
 $boost=4,site=komodosec.com
+$boost=4,site=randorisec.fr
 $boost=4,site=newscientist.com
 $boost=4,site=whtaguy.com
 $boost=4,site=lightbluetouchpaper.org
@@ -696,11 +698,13 @@ $boost=4,site=thehill.com
 $boost=4,site=termshark.io
 $boost=4,site=reactos.org
 $boost=4,site=christophetd.fr
+$boost=4,site=forcesunseen.com
 $boost=4,site=westborobaptistchurch.com
 $boost=4,site=volokh.com
 $boost=4,site=akamai.com
 $boost=4,site=stephensclafani.com
 $boost=4,site=kudelskisecurity.com
+$boost=4,site=perimeterx.com
 $boost=4,site=bullguard.com
 $boost=4,site=arkadiyt.com
 $boost=4,site=ui.com
@@ -724,6 +728,7 @@ $boost=4,site=michenriksen.com
 $boost=4,site=tomforb.es
 $boost=4,site=armis.com
 $boost=4,site=secbytes.net
+$boost=4,site=programmingwithstyle.com
 $boost=4,site=beefproject.com
 $boost=4,site=technologyreview.com
 $boost=4,site=smerity.com
@@ -751,6 +756,7 @@ $boost=4,site=digitalattackmap.com
 $boost=4,site=codeandsec.com
 $boost=4,site=phoronix.com
 $boost=4,site=circl.lu
+$boost=4,site=cleafy.com
 $boost=4,site=dustri.org
 $boost=4,site=milw0rm.com
 $boost=4,site=armosec.io
@@ -819,7 +825,6 @@ $boost=4,site=thexploit.com
 $boost=4,site=ownedcore.com
 $boost=4,site=goto.fail
 $boost=4,site=cxsecurity.com
-$boost=4,site=forcesunseen.com
 $boost=4,site=conscioushacker.io
 $boost=4,site=andresriancho.com
 $boost=4,site=jitbit.com
@@ -829,7 +834,6 @@ $boost=4,site=fsecurify.com
 $boost=4,site=boosterok.com
 $boost=4,site=threat9.com
 $boost=4,site=techeye.net
-$boost=4,site=includesecurity.com
 $boost=4,site=minerva-labs.com
 $boost=4,site=buzzfeednews.com
 $boost=4,site=radware.com
@@ -857,7 +861,6 @@ $boost=4,site=christophertruncer.com
 $boost=4,site=cso.com.au
 $boost=4,site=exablue.de
 $boost=4,site=darabi.me
-$boost=4,site=perimeterx.com
 $boost=4,site=armin.dev
 $boost=4,site=rajk.me
 $boost=4,site=pauldotcom.com
@@ -870,7 +873,6 @@ $boost=4,site=myidentifiers.com
 $boost=4,site=xen.org
 $boost=4,site=scip.ch
 $boost=4,site=amanhardikar.com
-$boost=4,site=cleafy.com
 $boost=4,site=swacash.com
 $boost=4,site=werebuild.eu
 $boost=4,site=blogspot.co.ke
@@ -884,6 +886,7 @@ $boost=4,site=hmarco.org
 $boost=4,site=opencryptoaudit.org
 $boost=4,site=webkit.org
 $boost=4,site=safetydetective.com
+$boost=4,site=goteleport.com
 $boost=4,site=zone-h.org
 $boost=4,site=smithsonianmag.com
 $boost=4,site=spider.io
@@ -950,7 +953,6 @@ $boost=4,site=shiftordie.de
 $boost=4,site=serhack.me
 $boost=4,site=adguard.com
 $boost=4,site=saynotolinux.com
-$boost=4,site=goteleport.com
 $boost=4,site=gitbook.com
 $boost=4,site=pdf.zone
 $boost=4,site=nealpoole.com
@@ -1069,6 +1071,7 @@ $boost=4,site=bc-security.org
 $boost=4,site=androidrookies.com
 $boost=4,site=qntra.net
 $boost=4,site=frederik-braun.com
+$boost=4,site=datadoghq.com
 $boost=4,site=abuse.ch
 $boost=4,site=scmagazine.com.au
 $boost=4,site=archive.ooo
@@ -1083,6 +1086,7 @@ $boost=4,site=sysdream.com
 $boost=4,site=lansec.net
 $boost=4,site=openvpn.net
 $boost=4,site=mikeallen.org
+$boost=4,site=lightspin.io
 $boost=4,site=whispersys.com
 $boost=4,site=nickwhyte.com
 $boost=4,site=teamhydra.blog
@@ -1096,6 +1100,7 @@ $boost=4,site=accuvant.com
 $boost=4,site=aluigi.org
 $boost=4,site=makthepla.net
 $boost=4,site=bettercap.org
+$boost=4,site=offensiveosint.io
 $boost=4,site=dazzlepod.com
 $boost=4,site=redblue.team
 $boost=4,site=saleemrashid.com
@@ -1108,9 +1113,11 @@ $boost=4,site=ptx2.net
 $boost=4,site=palant.info
 $boost=4,site=cuckoosandbox.org
 $boost=4,site=manrs.org
+$boost=4,site=nns.ee
 $boost=4,site=shubs.io
 $boost=4,site=ifc0nf1g.xyz
 $boost=4,site=huntresslabs.com
+$boost=4,site=forsec.nl
 $boost=4,site=blackkettle.org
 $boost=4,site=danielgrzelak.com
 $boost=4,site=asdfx.us
@@ -1127,6 +1134,7 @@ $boost=4,site=netnea.com
 $boost=4,site=darkport.co.uk
 $boost=4,site=0dayallday.org
 $boost=4,site=solarleaks.net
+$boost=4,site=bugalert.org
 $boost=4,site=andrewcantino.com
 $boost=4,site=cloudcracker.com
 $boost=4,site=felixcloutier.com
@@ -1172,6 +1180,7 @@ $boost=4,site=blindspotsecurity.com
 $boost=4,site=lulzsecurity.com
 $boost=4,site=samsclass.info
 $boost=4,site=komand.com
+$boost=4,site=wiz.io
 $boost=4,site=rfc-editor.org
 $boost=4,site=ubnt.com
 $boost=4,site=cocoaengineering.com
@@ -1192,7 +1201,6 @@ $boost=4,site=ackack.net
 $boost=4,site=regulations.gov
 $boost=4,site=gbhackers.com
 $boost=4,site=kciredor.com
-$boost=4,site=datadoghq.com
 $boost=4,site=cryptocity.net
 $boost=4,site=phrack.com
 $boost=4,site=lightningsecurity.io
@@ -1208,7 +1216,6 @@ $boost=4,site=adversary.io
 $boost=4,site=lifehacker.com
 $boost=4,site=daeken.com
 $boost=4,site=lightcommands.com
-$boost=4,site=bugalert.org
 $boost=4,site=security-base.com
 $boost=4,site=exploitbox.io
 $boost=4,site=vpnmentor.com
@@ -1317,7 +1324,6 @@ $boost=3,site=airza.net
 $boost=3,site=icebrg.io
 $boost=3,site=fragattacks.com
 $boost=3,site=deusx64.ai
-$boost=3,site=lightspin.io
 $boost=3,site=thestandard.com
 $boost=3,site=anandtech.com
 $boost=3,site=torbencapiau.be
@@ -1338,6 +1344,7 @@ $boost=3,site=whatthefuckismyinformationsecuritystrategy.com
 $boost=3,site=insomniasec.com
 $boost=3,site=toolswatch.org
 $boost=3,site=restorethe4th.com
+$boost=3,site=voidstarsec.com
 $boost=3,site=nobunkum.ru
 $boost=3,site=greyhats.it
 $boost=3,site=qmul.ac.uk
@@ -1345,12 +1352,14 @@ $boost=3,site=npmjs.org
 $boost=3,site=neonsea.uk
 $boost=3,site=justice.gov
 $boost=3,site=hacktale.com
+$boost=3,site=cidersecurity.io
 $boost=3,site=pandasecurity.com
 $boost=3,site=posterous.com
 $boost=3,site=icalinko.com
 $boost=3,site=healthleadersmedia.com
 $boost=3,site=alex-ionescu.com
 $boost=3,site=thevisiblenetwork.com
+$boost=3,site=attackerkb.com
 $boost=3,site=deepinstinct.com
 $boost=3,site=jerrygamblin.com
 $boost=3,site=0xsha.io
@@ -1367,6 +1376,7 @@ $boost=3,site=bit-tech.net
 $boost=3,site=cringely.com
 $boost=3,site=versprite.com
 $boost=3,site=badsite.io
+$boost=3,site=trunc.org
 $boost=3,site=trustmatta.com
 $boost=3,site=dewhurstsecurity.com
 $boost=3,site=haxx.in
@@ -1402,7 +1412,6 @@ $boost=3,site=prelude.org
 $boost=3,site=3564020356.org
 $boost=3,site=kernelmode.info
 $boost=3,site=tsyrklevich.net
-$boost=3,site=forsec.nl
 $boost=3,site=dadario.com.br
 $boost=3,site=concordia.ca
 $boost=3,site=thetapedrive.com
@@ -1437,7 +1446,6 @@ $boost=3,site=c0d3xpl0it.com
 $boost=3,site=bananamafia.dev
 $boost=3,site=eddiez.me
 $boost=3,site=stazot.com
-$boost=3,site=randorisec.fr
 $boost=3,site=decryptcryptolocker.com
 $boost=3,site=devwerks.net
 $boost=3,site=whonix.org
@@ -1552,7 +1560,6 @@ $boost=3,site=grc.com
 $boost=3,site=patternsinthevoid.net
 $boost=3,site=recordedfuture.com
 $boost=3,site=trackingthetrackers.com
-$boost=3,site=offensiveosint.io
 $boost=3,site=nzyme.org
 $boost=3,site=querna.org
 $boost=3,site=x.org
@@ -1563,6 +1570,7 @@ $boost=3,site=tirelessitservices.com
 $boost=3,site=youst.in
 $boost=3,site=informationweek.com
 $boost=3,site=crn.com
+$boost=3,site=krausefx.com
 $boost=3,site=thc.org
 $boost=3,site=hackerregiment.com
 $boost=3,site=klikki.fi
@@ -1699,9 +1707,11 @@ $boost=3,site=preempt.com
 $boost=3,site=malwareanalysis.co
 $boost=3,site=pentestgeek.com
 $boost=3,site=copperhead.co
+$boost=3,site=binary.ninja
 $boost=3,site=malware-research.org
 $boost=3,site=dev.io
 $boost=3,site=billdemirkapi.me
+$boost=3,site=securityscorecard.com
 $boost=3,site=makosecblog.com
 $boost=3,site=tuaw.com
 $boost=3,site=dicesoft.net
@@ -1726,7 +1736,6 @@ $boost=3,site=xpnsec.com
 $boost=3,site=anvilventures.com
 $boost=3,site=fuzzit.dev
 $boost=3,site=ibrascript.com
-$boost=3,site=nns.ee
 $boost=3,site=securityartwork.es
 $boost=3,site=wallofsheep.com
 $boost=3,site=thebestvpn.com
@@ -1734,6 +1743,7 @@ $boost=3,site=redteamer.tips
 $boost=3,site=paulch.ru
 $boost=3,site=frankel.ch
 $boost=3,site=horizon3.ai
+$boost=3,site=hydrogen18.com
 $boost=3,site=opine.me
 $boost=3,site=mailvelope.com
 $boost=3,site=radare.today
@@ -1771,7 +1781,6 @@ $boost=3,site=juniper.net
 $boost=3,site=bgr.com
 $boost=3,site=packettotal.com
 $boost=3,site=nsec.io
-$boost=3,site=krausefx.com
 $boost=3,site=pulsedive.com
 $boost=3,site=rainbowcrackalack.com
 $boost=3,site=zdnet.com.au
@@ -1794,6 +1803,7 @@ $boost=3,site=csharpening.net
 $boost=3,site=tcpcrypt.org
 $boost=3,site=breaknenter.org
 $boost=3,site=ehpus.com
+$boost=3,site=ethz.ch
 $boost=3,site=isc.org
 $boost=3,site=sq-skim.com
 $boost=3,site=subelsky.com
@@ -1832,7 +1842,6 @@ $boost=3,site=netsecfocus.com
 $boost=3,site=verizonbusiness.com
 $boost=3,site=openwall.net
 $boost=3,site=amorales.org
-$boost=3,site=cidersecurity.io
 $boost=3,site=osnews.com
 $boost=3,site=icann.org
 $boost=3,site=bjrn.se
@@ -1859,6 +1868,7 @@ $boost=3,site=securitywithoutborders.org
 $boost=3,site=regulus.com
 $boost=3,site=macobserver.com
 $boost=3,site=jldc.me
+$boost=3,site=aepicleak.com
 $boost=3,site=catonmat.net
 $boost=3,site=sh4ka.fr
 $boost=3,site=xipiter.com
@@ -1906,6 +1916,7 @@ $boost=3,site=ithare.com
 $boost=3,site=cloudways.com
 $boost=3,site=compass-security.com
 $boost=3,site=yvoschaap.com
+$boost=3,site=criminalip.io
 $boost=3,site=benedelman.org
 $boost=3,site=pyflag.net
 $boost=3,site=ceukelai.re
@@ -1983,7 +1994,6 @@ $boost=3,site=useyourloaf.com
 $boost=3,site=recurity-labs.com
 $boost=3,site=appliednsm.com
 $boost=3,site=haxelion.eu
-$boost=3,site=attackerkb.com
 $boost=3,site=securelayer7.net
 $boost=3,site=theobsidiantower.com
 $boost=3,site=pluginvulnerabilities.com
@@ -2026,6 +2036,7 @@ $boost=3,site=cjbarker.com
 $boost=3,site=akona.me
 $boost=3,site=wpsec.com
 $boost=3,site=hardenedvault.net
+$boost=3,site=cyllective.com
 $boost=3,site=esecurityplanet.com
 $boost=3,site=c22.cc
 $boost=3,site=woodmann.com
@@ -2035,6 +2046,7 @@ $boost=3,site=manybutfinite.com
 $boost=3,site=insecure.ws
 $boost=3,site=jcolemorrison.com
 $boost=3,site=olliejc.uk
+$boost=3,site=modzero.com
 $boost=3,site=elttam.com
 $boost=3,site=networkcomputing.in
 $boost=3,site=barracuda.com
@@ -2080,8 +2092,6 @@ $boost=3,site=lolware.net
 $boost=3,site=payatu.com
 $boost=3,site=vu.nl
 $boost=3,site=secfault-security.com
-$boost=3,site=ethz.ch
-$boost=3,site=voidstarsec.com
 $boost=3,site=insecuritymovie.com
 $boost=3,site=arkem.org
 $boost=3,site=lawfareblog.com
@@ -2162,6 +2172,7 @@ $boost=3,site=jpcert.or.jp
 $boost=3,site=philippeharewood.com
 $boost=3,site=marcolancini.it
 $boost=3,site=enki.co.kr
+$boost=3,site=elastic.co
 $boost=3,site=patrickvalencia.com
 $boost=3,site=sacbee.com
 $boost=3,site=adamharley.co.uk
@@ -2195,7 +2206,6 @@ $boost=3,site=restoreprivacy.com
 $boost=3,site=44con.com
 $boost=3,site=poplab.pt
 $boost=3,site=securityinbits.com
-$boost=3,site=trunc.org
 $boost=3,site=digitizor.com
 $boost=3,site=securitydriven.net
 $boost=3,site=blogspot.se
@@ -2343,6 +2353,7 @@ $boost=3,site=habets.se
 $boost=3,site=riscy.business
 $boost=3,site=surfshark.com
 $boost=3,site=coreruleset.org
+$boost=3,site=mandiant.com
 $boost=3,site=theharmonyguy.com
 $boost=3,site=musalbas.com
 $boost=3,site=ivrodriguez.com
@@ -2493,9 +2504,9 @@ $boost=3,site=noddos.io
 $boost=3,site=uni-bonn.de
 $boost=3,site=gideonwolfe.com
 $boost=3,site=prodaft.com
-$boost=2,site=krabsonsecurity.com
-$boost=2,site=csgeeks.org
-$boost=2,site=routerpasswords.com
+$boost=3,site=krabsonsecurity.com
+$boost=3,site=csgeeks.org
+$boost=3,site=routerpasswords.com
 $boost=2,site=windowhaxor.net
 $boost=2,site=instructables.com
 $boost=2,site=lacklustre.net
@@ -2530,6 +2541,7 @@ $boost=2,site=citadelo.com
 $boost=2,site=cm4all.com
 $boost=2,site=wale.id.au
 $boost=2,site=vidocsecurity.com
+$boost=2,site=sternumiot.com
 $boost=2,site=officeofstrategicinfluence.com
 $boost=2,site=sudosecure.net
 $boost=2,site=architectingsecurity.com
@@ -2624,6 +2636,7 @@ $boost=2,site=trend.az
 $boost=2,site=slayerlabs.com
 $boost=2,site=frsecure.com
 $boost=2,site=trojansource.codes
+$boost=2,site=coffinsec.com
 $boost=2,site=imasuper.com
 $boost=2,site=liu.se
 $boost=2,site=thomer.com
@@ -2641,6 +2654,7 @@ $boost=2,site=securem.eu
 $boost=2,site=calomel.org
 $boost=2,site=securisec.com
 $boost=2,site=kaskaso.li
+$boost=2,site=albertpedersen.com
 $boost=2,site=roughtype.com
 $boost=2,site=tidbits.com
 $boost=2,site=azarask.in
@@ -2661,6 +2675,7 @@ $boost=2,site=jmw.fyi
 $boost=2,site=lsdsecurity.com
 $boost=2,site=coocoor.com
 $boost=2,site=itblogr.com
+$boost=2,site=quercialabs.com
 $boost=2,site=phpbb.com
 $boost=2,site=pingdom.com
 $boost=2,site=nmrc.org
@@ -2724,7 +2739,6 @@ $boost=2,site=hurricanelabs.com
 $boost=2,site=hodgkins.io
 $boost=2,site=mauritsvanaltvorst.com
 $boost=2,site=leaky.page
-$boost=2,site=wiz.io
 $boost=2,site=osmedeus.org
 $boost=2,site=brandefense.io
 $boost=2,site=techradar.com
@@ -2747,6 +2761,7 @@ $boost=2,site=mike-gualtieri.com
 $boost=2,site=securereading.com
 $boost=2,site=security.christmas
 $boost=2,site=hacktivitycon.com
+$boost=2,site=shellsharks.com
 $boost=2,site=computerweekly.com
 $boost=2,site=thetechherald.com
 $boost=2,site=hak5.org
@@ -2806,6 +2821,7 @@ $boost=2,site=getmantra.com
 $boost=2,site=ticketmaster.se
 $boost=2,site=marcusedmondson.com
 $boost=2,site=ost2.fyi
+$boost=2,site=pulsar.sh
 $boost=2,site=sectools.org
 $boost=2,site=basementpctech.com
 $boost=2,site=smacktls.com
@@ -2816,6 +2832,7 @@ $boost=2,site=fluidattacks.com
 $boost=2,site=deletescape.ch
 $boost=2,site=urth.org
 $boost=2,site=sprocketsecurity.com
+$boost=2,site=dennisbabkin.com
 $boost=2,site=newschoolsecurity.com
 $boost=2,site=lfde.org
 $boost=2,site=infobyte.com.ar
@@ -2907,6 +2924,8 @@ $boost=2,site=nyti.ms
 $boost=2,site=asecure.cloud
 $boost=2,site=singer.cloud
 $boost=2,site=zd.net
+$boost=2,site=huntandhackett.com
+$boost=2,site=starlabs.sg
 $boost=2,site=geekcondition.com
 $boost=2,site=malwarecity.com
 $boost=2,site=perens.com
@@ -2990,7 +3009,6 @@ $boost=2,site=flexport.engineering
 $boost=2,site=opnsec.com
 $boost=2,site=erbbysam.com
 $boost=2,site=esetstatic.com
-$boost=2,site=elastic.co
 $boost=2,site=christophermullins.com
 $boost=2,site=hakluke.com
 $boost=2,site=abenteuerland.at
@@ -3019,7 +3037,6 @@ $boost=2,site=biarity.me
 $boost=2,site=kur0sec.org
 $boost=2,site=securityinnovation.com
 $boost=2,site=dos.sh
-$boost=2,site=binary.ninja
 $boost=2,site=berkdusunur.net
 $boost=2,site=prismacsi.com
 $boost=2,site=venafi.com
@@ -3046,6 +3063,7 @@ $boost=2,site=denialof.services
 $boost=2,site=rfk.id.au
 $boost=2,site=securityboulevard.com
 $boost=2,site=doyler.net
+$boost=2,site=eslam.io
 $boost=2,site=savenetradio.org
 $boost=2,site=tlrobinson.net
 $boost=2,site=pcapr.net
@@ -3215,6 +3233,7 @@ $boost=2,site=cms.gov
 $boost=2,site=etsi.org
 $boost=2,site=dylan.codes
 $boost=2,site=stavros.io
+$boost=2,site=dellfer.com
 $boost=2,site=montgomeryadvertiser.com
 $boost=2,site=marcoslot.net
 $boost=2,site=mybroadband.co.za
@@ -3266,7 +3285,6 @@ $boost=2,site=hunniccyber.com
 $boost=2,site=plundervolt.com
 $boost=2,site=tailscale.com
 $boost=2,site=buttondown.email
-$boost=2,site=securityscorecard.com
 $boost=2,site=internetevolution.com
 $boost=2,site=thenewfreedom.net
 $boost=2,site=irc-junkie.org
@@ -3337,6 +3355,7 @@ $boost=2,site=pwnl0rd.me
 $boost=2,site=kalmarunionen.dk
 $boost=2,site=wepc.com
 $boost=2,site=dealshumble.com
+$boost=2,site=mattkeeter.com
 $boost=2,site=macblogz.com
 $boost=2,site=bonsai-sec.com
 $boost=2,site=packetstormsecurity.org
@@ -3507,6 +3526,8 @@ $boost=2,site=appsecdays.org
 $boost=2,site=disclose.io
 $boost=2,site=guidepointsecurity.com
 $boost=2,site=blockmagnates.com
+$boost=2,site=akeyless.io
+$boost=2,site=hijacklibs.net
 $boost=2,site=tek-ops.com
 $boost=2,site=information-security-resources.com
 $boost=2,site=crn.com.au
@@ -3660,6 +3681,7 @@ $boost=2,site=nyget.in
 $boost=2,site=net-tools.io
 $boost=2,site=timestabloid.com
 $boost=2,site=jads.blog
+$boost=2,site=thebinaryhick.blog
 $boost=2,site=gnucitizen.org
 $boost=2,site=sfu.ca
 $boost=2,site=radian.org
@@ -3704,7 +3726,6 @@ $boost=2,site=thecybersecuritytutor.com
 $boost=2,site=hopin.com
 $boost=2,site=riskinsight-wavestone.com
 $boost=2,site=log4jmemes.com
-$boost=2,site=modzero.com
 $boost=2,site=openletter.earth
 $boost=2,site=fukung.net
 $boost=2,site=uiuc.edu
@@ -3767,3 +3788,4 @@ $boost=2,site=lacework.com
 $boost=2,site=bernardoamc.com
 $boost=2,site=perforce.com
 $boost=2,site=seclarity.io
+$boost=2,site=coderoasis.com
